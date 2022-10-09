@@ -1,0 +1,28 @@
+
+
+.card img{
+	width: 210px;
+	height: 210px;
+}
+
+.card{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	height: 28rem;
+}
+
+.card .cart-btn{
+	padding: 10px;
+/*	background-color: #B502FD;*/
+	color: #ffffff;
+	outline: none;
+	border-bottom-left-radius: 5px !important;
+	border-bottom-right-radius: 5px !important;
+}
+
+.card .cart-btn:hover{
+	/*	background-color: #B502FD;*/
+
+}
+

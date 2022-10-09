@@ -1,0 +1,14 @@
+.makeups{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 20px;
+}
+.makeup-container{
+	display: grid;
+	grid-template-columns: 3fr 1fr;
+	grid-gap: 10px;	
+}
+
+.bg-summery{
+		background-color: #B502FD;
+}
